@@ -1,0 +1,39 @@
+.column.grayHeader {
+    padding: 50px;
+    background-color: gainsboro;    
+    height: 250px;
+    text-align: center;
+    align-content: center;
+}
+
+
+
+.newButton.js-newDeck {
+    background-color: #DC3545;
+    color: white;
+}
+
+.DrawCard.js-DrawCard {
+    background-color: #28A745;
+    color: white;
+}
+
+/* 
+.overlay
+{
+	transition: opacity 0.5s ease;
+    -webkit-transition: opacity 0.5s ease;
+	-moz-transition: opacity 0.5s ease;
+} */
+
+
+.overlay{ 
+	/* background:rgba(0,0,0,.75); */
+ opacity: 0.55;  
+ } 
+
+/* .overlay:hover  {
+  opacity:0.5;
+} */
+
+
